@@ -8,8 +8,8 @@
 
 1.  **Clone Repository:**
     ```bash
-    git clone [https://github.com/Ten_cua_ban/ten-du-an.git](https://github.com/Ten_cua_ban/ten-du-an.git)
-    cd ten-du-an
+    git clone [https://github.com/Duong_Tuan_Anh/du_an_a.git](https://github.com/Duong_Tuan_Anh/du_an_a.git)
+    cd a-b-c
     ```
 
 2.  **Cài đặt các thư viện cần thiết:**
